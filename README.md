@@ -46,8 +46,7 @@ class Skills : Aaron_Delaney
 ```
 
 ## My Portfolio
-I love creating games and working on many projects and new ideas <a href="https://aarondelaney.vercel.app/">Aaron Delaney's Portfolio </a>
-
+I am currently in the process of redesigning my portfolio, which features a selection of my game development projects and prototypes. While most of my games are not publicly available due to the use of assets that I do not have the rights to distribute, my portfolio provides an overview of the work I have completed in the field of game development. I am passionate about creating games and am always exploring new ideas. Please visit <a href="https://aarondelaney.vercel.app/"> Aaron Delaney's Portfolio </a> to learn more about my past and current projects.
 
 ## Skills & Stats
 <img src="https://github-readme-stats.vercel.app/api?username=AaronDelaney99&theme=dracula&show_icons=true&count_private=true">&nbsp;
